@@ -17,6 +17,7 @@
                 <TextBlock Text="{Binding Name}" Margin="5" FontSize="12"></TextBlock>
             </StackPanel>
         </DataTemplate>
+
     </Window.Resources>
 
     <Grid Loaded="Grid_Loaded">
@@ -24,8 +25,10 @@
             <ColumnDefinition Width="683*"/>
             <ColumnDefinition Width="109*"/>
         </Grid.ColumnDefinitions>
-        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="209" Margin="157,95,0,0" VerticalAlignment="Top" Width="180" ItemTemplate="{StaticResource phoneListbox}"/>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="159" Margin="403,145,0,0" VerticalAlignment="Top" Width="178"/>
-        <TextBlock x:Name="textBlock" FontSize="24" HorizontalAlignment="Left" Margin="403,95,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="45" Width="195"/>
+
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="231" Margin="129,95,0,0" VerticalAlignment="Top" Width="180" ItemTemplate="{StaticResource phoneListbox}" SelectionChanged="listBox_SelectionChanged"/>
+        <TextBlock x:Name="tblkPrice" HorizontalAlignment="Left" Margin="411,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="46" Width="161" FontSize="24"/>
+
+        <Image x:Name="imgPhone" HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="161" Margin="411,146,0,0" />
     </Grid>
 </Window>
