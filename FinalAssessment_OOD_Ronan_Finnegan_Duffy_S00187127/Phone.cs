@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127
 {
-    class Phone
+    public class Phone
     {
         // Properties
         public string Name { get; set; }
@@ -14,5 +14,10 @@ namespace FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127
         public string OperatingSystem { get; set; }
         public string OS_Image { get; set; }
         public string Phone_Image { get; set; }
+
+        public void IncreasePrice(decimal increaseAmount)
+        {
+            Price = Price * increaseAmount / 100;
+        }
     }
 }
