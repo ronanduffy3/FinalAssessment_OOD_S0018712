@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,5 +21,11 @@ namespace FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127
             decimal percentageIncrease = Price * increaseAmount / 100;
             Price = Price + percentageIncrease;
         }
+    }
+    public class PhoneData : DbContext
+    {
+        public PhoneData() : base("PhoneData") { }
+
+        public DbSet<Phone> phones { get; set; }
     }
 }
