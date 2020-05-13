@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalAssessment_OOD_Ronan_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalAssessment.Testing", "FinalAssessment.Testing\FinalAssessment.Testing.csproj", "{07EEB6A9-420B-4C51-BC63-6252D0BEDB47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement", "DataManagement\DataManagement.csproj", "{421EF6EE-C96D-4978-9CC8-0DCD4DBF1FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07EEB6A9-420B-4C51-BC63-6252D0BEDB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07EEB6A9-420B-4C51-BC63-6252D0BEDB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07EEB6A9-420B-4C51-BC63-6252D0BEDB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421EF6EE-C96D-4978-9CC8-0DCD4DBF1FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421EF6EE-C96D-4978-9CC8-0DCD4DBF1FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421EF6EE-C96D-4978-9CC8-0DCD4DBF1FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421EF6EE-C96D-4978-9CC8-0DCD4DBF1FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,9 +20,24 @@ namespace FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127
     /// </summary>
     public partial class MainWindow : Window
     {
+        PhoneData db = new PhoneData();
+        List<Phone> phoneList = new List<Phone>();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Grid_Loaded(object sender, RoutedEventArgs e)
+        {
+            var query = (from Phone in db.phones
+                         select Phone).ToList();
+
+            foreach(var phone in query)
+            {
+                phoneList.Add(phone);
+            }
+
+            listBox.ItemsSource = phoneList;
         }
     }
 }
