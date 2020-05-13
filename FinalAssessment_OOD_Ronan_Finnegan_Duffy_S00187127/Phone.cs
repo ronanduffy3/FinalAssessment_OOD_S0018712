@@ -17,7 +17,8 @@ namespace FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127
 
         public void IncreasePrice(decimal increaseAmount)
         {
-            Price = Price * increaseAmount / 100;
+            decimal percentageIncrease = Price * increaseAmount / 100;
+            Price = Price + percentageIncrease;
         }
     }
 }

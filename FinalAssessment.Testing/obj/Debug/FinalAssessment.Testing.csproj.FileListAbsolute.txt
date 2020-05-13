@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\FinalAssessment.Testing.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\FinalAssessment.Testing.pdb
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127.exe
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127.pdb
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127.exe.config
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\obj\Debug\FinalAssessment.Testing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\obj\Debug\FinalAssessment.Testing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\obj\Debug\FinalAssessment.Testing.csproj.CopyComplete
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\obj\Debug\FinalAssessment.Testing.dll
+C:\Users\user\source\repos\FinalAssessment_OOD_Ronan_Finnegan_Duffy_S00187127\FinalAssessment.Testing\obj\Debug\FinalAssessment.Testing.pdb
